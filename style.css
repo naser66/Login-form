@@ -84,6 +84,7 @@ body{
 
 .login-btn:hover{
     background-color: #50e5b9;
+    transition-duration: 1s;
 
 }
 
